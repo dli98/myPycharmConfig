@@ -7,3 +7,6 @@ Plugins:
 
 Schema:
 - Peacock Contrast (Rainglow)
+
+Editor:
+- General.Appearance Caret blinking (disable)
